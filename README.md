@@ -43,7 +43,7 @@ The dashboard includes the following charts and visuals:
 ---
 
 ## Screenshots
-![HR Analytics Dashboard](./images/hr_analytics_dashboard.png)
+![HR Analytics Dashboard](C:/Users/dell/Downloads/imge1.png)
 
 ---
 
@@ -59,14 +59,3 @@ The dashboard includes the following charts and visuals:
 - Integrating real-time data for dynamic updates.
 - Providing drill-down options for detailed analysis.
 
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## Contact
-For any questions or suggestions, feel free to reach out:
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)
