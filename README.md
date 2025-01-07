@@ -44,6 +44,8 @@ The dashboard includes the following charts and visuals:
 
 ## Screenshots
 ![{64B0838B-8A6A-44BB-87EC-8DFAB31B73AF}](https://github.com/user-attachments/assets/32ac6c92-6dda-4d7d-94b7-37a321089665)
+![imge1](https://github.com/user-attachments/assets/484c20ca-8036-4647-a3ee-bce0dc41a2d2)
+![imge2](https://github.com/user-attachments/assets/531bb095-6688-4db5-9ff3-afe9312ed68f)
 
 ---
 
