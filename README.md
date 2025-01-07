@@ -43,7 +43,7 @@ The dashboard includes the following charts and visuals:
 ---
 
 ## Screenshots
-![HR Analytics Dashboard](C:/Users/dell/Downloads/imge1.png)
+![HR Analytics Dashboard](C:/Users/dell/Downloads/imge1)
 
 ---
 
